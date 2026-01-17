@@ -10,7 +10,7 @@
 <img align="right" alt="Coding GIF" src="beach.png" width="40%" />
 
 
-> I'm a researcher in the **CoRE Lab** at the **University of Central Florida** specializing in applying statistical methods to coastal flood risk analysis, compound flooding, and other water resource challenges. I have a **Ph.D. in Civil Engineering** from the **University of Plymouth ([UOP](https://www.plymouth.ac.uk/))**, where my research focused on improving the representation of the fragility of coastal structures. 
+> I'm a researcher in the **Department of Construction, Environmental and Civil Engineering** at the **University of Central Florida ([UCF](https://ucf.edu))** specializing in the application of statistical methods to coastal flood risk analysis, compound flooding, and other water resource challenges. I have a **Ph.D. in Civil Engineering** from the **University of Plymouth ([UOP](https://www.plymouth.ac.uk/))**, where my research focused on improving the representation of the fragility of coastal flood defence structures. 
 > 
 > 
 
@@ -196,6 +196,7 @@ I apply advanced skills in **hydrologic, hydrodynamic, and hydraulic modeling** 
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
 -->
+
 
 
 
