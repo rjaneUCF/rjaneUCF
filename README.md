@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=810&height=55&lines=Javed+Ali;Water+Resources+Engineer+%7C+Climate+Data+Scientist)](https://git.io/typing-svg)
 -->
 
-<img align="right" alt="Coding GIF" src="MultiHazard_vid.gif" width="60%" />
+<img align="right" alt="Coding GIF" src="beach.png" width="60%" />
 
 
 > I'm a researcher in the **CoRE Lab** at the **University of Central Florida** specializing in applying statistical methods to coastal flood risk analysis, compound flooding, and other water resource challenges. I have a **Ph.D. in Civil Engineering** from the **University of Plymouth ([UOP](https://www.plymouth.ac.uk/))**, where my research focused on improving the representation of the fragility of coastal structures. 
@@ -196,4 +196,5 @@ I apply advanced skills in **hydrologic, hydrodynamic, and hydraulic modeling** 
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
 -->
+
 
